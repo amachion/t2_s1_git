@@ -1,0 +1,5 @@
+#arquivos que não devem subir
+log.txt
+
+#pastas que não devem subir
+/nova_pasta
